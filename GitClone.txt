@@ -1,0 +1,3 @@
+-- Git --
+
+git clone https://github.com/LoginAzazel/IVT-11.git - Копирование на компьютер репозиторий

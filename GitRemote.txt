@@ -1,0 +1,5 @@
+-- Git --
+
+git remote add origin https://github.com/LoginAzazel/Git_Test.git - выбор облачного репозитория для отправки
+git remote rm origin - Удаление Выбранной ветки
+git push -u origin master - Отпраки на репозиторий закомиченных файлов
